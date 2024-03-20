@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalacska&label=Profile%20views&color=0e75b6&style=flat" alt="lalacska" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalacska" alt="lalacska" /></a> </p>
-
 - 🔭 I’m currently working on [Ticket-to-Ride](https://github.com/Lalacska/Ticket-to-Ride)
 
 - 🌱 I’m currently learning **Unity**
